@@ -1,2 +1,14 @@
-# Women-Safety-Alert-System
-A comprehensive web-based emergency alert system that allows users to trigger SOS alerts with their real-time location, which are instantly sent to pre-registered emergency contacts via SMS. Includes an admin dashboard for monitoring all activities.
+
+# Women Safety Alert System
+
+Features
+- One time registration
+- SOS button
+- Sends WhatsApp emergency message with location
+- Live location tracking
+- Mobile friendly
+
+Tech
+- Python Flask
+- HTML CSS JS
+- SQLite
